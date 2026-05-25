@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: DHIRAVIYA S</h3>
-<h3>Register Number: 212223040041</h3>
+<h3>Name: Akbar I</h3>
+<h3>Register Number: 212224230014</h3>
 
 <h3>AIM:</h3>
 
